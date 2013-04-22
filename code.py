@@ -6,7 +6,7 @@ urls = (
 
 class index:
     def GET(self):
-        return "Hello, world!"
+        return "Hell,suzie!"
 
 if __name__ == "__main__":
     app = web.application(urls, globals())
