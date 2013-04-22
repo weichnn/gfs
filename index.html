@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="basic.css" />
+		<title>未来高富帅注册界面</title>
+	</head>
+	
+	<script language = "javascript" src = "form.js">
+	</script>
+	
+	<body>
+			<form name = "form1" onSubmit = "return check()">
+				<table class = "default" align = "center">
+					<tr class = "title">
+						<th colspan = "2">未来高富帅注册界面</th>
+					</tr>
+					<tr>
+						<td class = "item">姓名：</td>
+						<td><input type = "text" name = "name"></td>
+					</tr>
+					<tr>
+						<td class = "item">性别：</td>
+						<td style = "color:red;border:2">
+							<input type = "radio" name = "sex" value = "男" checked>男
+							<input type = "radio" name = "sex" value = "女">女
+						</td>
+					</tr>
+					<tr>
+						<td class = "item">成分：</td>
+						<td><select size = "1" name = "work">
+							<option>男屌丝</option>
+							<option>女屌丝</option>
+							<option selected>访客</option>
+							</selected>
+							</td>	
+					</tr>
+					<tr>
+						<td class = "item">邮箱地址：</td>
+						<td><input type = "text" name = "email"></td>
+					</tr>
+					<tr>
+						<td class = "item">爱好：</td>
+						<td>
+							<input type = "checkbox" name = "CC" value = "看书" checked>看书
+							<input type = "checkbox" name = "CC" value = "游戏">游戏
+							<input type = "checkbox" name = "CC" value = "扑克">扑克
+							<input type = "checkbox" name = "CC" value = "保龄">保龄
+							<input type = "checkbox" name = "CC" value = "网球">网球
+							<input type = "text" name = "other">其他
+						</td>
+					</tr>
+					<tr>
+						<td class = "item">密码：</td>
+						<td><input type = "password" name = "pass" size = "20"></td>
+					</tr>
+					<tr>
+						<td class = "item">确认密码：</td>
+						<td><input type = "password" name = "confirm" size = "20"></td>
+					</tr>
+					<tr>
+						<td class = "item">自我描述：</td>
+						<td><textarea name = "des" rows = "5" cols = "20"></textarea></td>
+					</tr>
+					<tr>
+						<td colspan = "2"><center><input type = "submit" value = "提交"></center></td>
+					</tr>
+				</table>
+			</form>
+	</body>
+</html>
