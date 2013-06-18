@@ -1,4 +1,7 @@
-Diaoscover [How to be Tall, Rich and Handsome]
+Diaoscover 
+==================
+
+[How to be Tall, Rich and Handsome]
 ===================
 
 ### 我们的目标
