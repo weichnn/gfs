@@ -1,8 +1,9 @@
-高富帅特级培训课程
+Diaoscover [How to be Tall, Rich and Handsome]
 ===================
 
 ### 我们的目标
-![24K](http://qq.yh31.com/tp/dy/201301261349276808.gif "24K")
+	
+
 
 
 ## 21世纪最著名的方法论终于开源啦
