@@ -3,9 +3,15 @@ Diaoscover
 
 [How to be Tall, Rich and Handsome]
 
-### 我们的目标
-	
 
+#### Who I am？
+
+
+#### 我们的目标
+	
+#### Todolist
+
+	鉴于笔者最近都在找实习，把这边给落下了。最近混知乎 和豆瓣搭讪学小组，决定好好记录一下。
 
 
 ## 21世纪最著名的方法论终于开源啦
